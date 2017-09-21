@@ -1,2 +1,2 @@
 # hello-world
-Traditional First Program
+Starting off with the traditional first program.
